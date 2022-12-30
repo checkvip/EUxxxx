@@ -15,4 +15,5 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    curl -s https://ygtro.ygabc.repl.co
+
+        curl -s https://ygtro.ygabc.repl.co
